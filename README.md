@@ -34,6 +34,20 @@ Ingeniero Informático con experiencia en desarrollo backend, soporte técnico y
 </p>
 
 ---
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoseCode-CO&label=Profile%20views&color=0e75b6&style=flat" alt="JoseCode-CO" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseCode-CO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JoseCode-CO&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCode-CO&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 📫 **Contacto:**
 
