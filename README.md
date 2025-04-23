@@ -14,17 +14,8 @@
 
 Ingeniero Informático con experiencia en desarrollo backend, soporte técnico y procesamiento de datos. He trabajado con empresas de Colombia y Panamá en proyectos de integración de sistemas, APIs, facturación electrónica y procesos ETL. Me especializo en **Laravel**, **PHP**, **Node.js**, y tengo conocimientos en tecnologías como **React**, **Vue**, **AWS**, **Docker** y **C#**. Soy proactivo, adaptable y disfruto resolver problemas complejos con soluciones limpias y eficientes.
 
----
 
-💼 **Experiencia Destacada:**
 
-- 🔧 **Comfenalco Cartagena:** Integraciones con SAP, ETL, cifrado con PGP, facturación electrónica.
-- 🌐 **Fortesza (Panamá):** Procesamiento multimedia, integración con AWS S3.
-- 🔄 **A&T Diseño:** Desarrollo de APIs con Passport y Sanctum, exportación de reportes.
-- ☁️ **Opperweb:** Integración con AWS y HubSpot, uso de colas en Laravel.
-- 🧩 **Comprised, LLC:** Optimización en Drupal 9.
-- ⚙️ **ISS E.U:** Frontend dinámico con React.js.
-- 🛠️ **Grupo Recordar:** Soporte técnico e infraestructura.
 
 ---
 
