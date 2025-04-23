@@ -64,4 +64,8 @@ Ingeniero Informático con experiencia en desarrollo backend, soporte técnico y
 ---
 
 ✨ _"La tecnología bien usada transforma procesos y conecta ideas con impacto real."_  
+<a href="https://github.com/sponsors/JoseCode-CO">
+  <img src="https://img.shields.io/badge/Sponsor-JoseCode--CO-critical?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+</a>
+
 
